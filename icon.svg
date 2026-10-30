@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0f1117"/>
+  <g fill="#e3e9ed">
+    <!-- Torre -->
+    <path d="M150 120h40v40h44v-40h44v40h44v-40h40v100l-34 30v130h44v52H140v-52h44V250l-34-30z"/>
+  </g>
+  <rect x="140" y="398" width="232" height="10" rx="5" fill="#4f8c42"/>
+</svg>
